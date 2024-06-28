@@ -106,7 +106,7 @@ export const projects = [
     {
         id: 5,
         title: "Twitter Clone",
-        des: "Twitter Clone built using the MERN stack with tailwindCSS and Tanstack Query for data fetching! ",
+        des: "This is built in using the MERN stack with tailwindCSS and Tanstack Query for data fetching! ",
         img: "/twitter.png",
         iconLists: ["/tail.svg", "/re.svg",],
         link: "https://twitter-clone-yg8p.onrender.com/",
