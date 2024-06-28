@@ -103,6 +103,14 @@ export const projects = [
         iconLists: ["/re.svg", '/next.svg', "/tail.svg", "/ts.svg", "/c.svg"],
         link: "https://p-commerce-admin.vercel.app/",
     },
+    {
+        id: 5,
+        title: "Twitter Clone",
+        des: "Twitter Clone built using the MERN stack with tailwindCSS and Tanstack Query for data fetching! ",
+        img: "/twitter.png",
+        iconLists: ["/tail.svg", "/re.svg",],
+        link: "https://twitter-clone-yg8p.onrender.com/",
+    },
 ];
 
 
